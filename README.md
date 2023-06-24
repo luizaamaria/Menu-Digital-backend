@@ -1,8 +1,8 @@
 # Menu Digital 🍽️ (Backend)
-
+Criado backend usando o framework Java Spring, e utilizando os modelos RESTful para as operações CRUD. 
 ### Projeto Faculdade ADS 🖥️
 
-Aplicação feita com as tecnologias Java Spring e React.
+Aplicação feita com as tecnologias Java Spring, PostgreSQL e React.
 
 ### ⚠️ Requisitos 
 
